@@ -1,0 +1,35 @@
+_repo: The-Yellow-Rose_34911
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Danford, Beatrice
+    gutenberg_agent_id: '38604'
+    url: http://www.gutenberg.org/2009/agents/38604
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Maurus
+    - Jokai, Mor
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_issued: '2011-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- Translations into English'
+title: The Yellow Rose
+url: http://www.gutenberg.org/ebooks/34911
